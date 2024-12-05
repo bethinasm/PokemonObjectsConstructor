@@ -12,4 +12,3 @@ Console.WriteLine("Objects & Constructor - Pokemon Oppgave");
 
 var Start = new Start();
 Start.Menu();
-
